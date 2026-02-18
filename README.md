@@ -22,6 +22,7 @@
 Буду радий фідбеку від інженерів та розробників — як можна покращити формули чи код?
 
 🔗 Посилання: [https://engineeringtoolsv43.tiiny.site](https://engineeringtoolsv43.tiiny.site)
+  Посилання на GitHub: [https://spartak-dev.github.io/Engineering-tools-v4.3/](https://spartak-dev.github.io/Engineering-tools-v4.3/)
 
 ---
 
